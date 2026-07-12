@@ -3,4 +3,4 @@ on:
 
 jobs:
   build:
-    uses: anna123/shared-workflows/.github/workflows/build.yml@main
+    uses: annaerdi/shared-workflows/.github/workflows/build.yml@main

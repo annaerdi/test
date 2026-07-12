@@ -1,0 +1,6 @@
+on:
+  push
+
+jobs:
+  build:
+    uses: anna123/shared-workflows/.github/workflows/build.yml@main

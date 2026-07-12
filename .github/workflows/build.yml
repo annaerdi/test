@@ -3,5 +3,5 @@ on:
   push
 
 jobs:
-  build:
+  call-workflow:
     uses: annaerdi/shared-workflows/.github/workflows/build.yml@main
